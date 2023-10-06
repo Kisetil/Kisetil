@@ -2,7 +2,7 @@
 - 👀 I'm interested in algorithms, object oriented programming, functional programming, 2d/3d engines and framework/library development.
 - 🌱 I’m currently learning Haxe and working on **an attempt** to create an abstract layer for building a cross 2D engine.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: send a DM to kisetil on discord 
+- 📫 Contact me by sending a direct message to kisetil on Discord.
 
 <!---
 kisetil/kisetil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
